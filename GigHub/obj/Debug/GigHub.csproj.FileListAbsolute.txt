@@ -93,4 +93,5 @@ C:\Users\Amir\Documents\Training\Architecture\GigHub\GigHub\obj\Debug\GigHub.Mig
 C:\Users\Amir\Documents\Training\Architecture\GigHub\GigHub\obj\Debug\GigHub.csproj.GenerateResource.Cache
 C:\Users\Amir\Documents\Training\Architecture\GigHub\GigHub\obj\Debug\GigHub.dll
 C:\Users\Amir\Documents\Training\Architecture\GigHub\GigHub\obj\Debug\GigHub.pdb
+C:\Users\Amir\Documents\Training\Architecture\GigHub\GigHub\obj\Debug\GigHub.Migrations.AddIsCanceledToGig.resources
 C:\Users\Amir\Documents\Training\Architecture\GigHub\GigHub\obj\Debug\GigHub.csprojResolveAssemblyReference.cache
